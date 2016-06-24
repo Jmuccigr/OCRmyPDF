@@ -251,9 +251,17 @@ languages can be requested.
 Support
 -------
 
-In case you detect an issue, please:
+### Help
 
--  Check if your issue is already known
+Once ocrmypdf is installed, the built-in help which explains the command syntax and options can be accessed via
+
+   ocrmypdf --help
+
+### Problems
+
+If you detect an issue, please:
+
+-  Check whether your issue is already known
 -  If no problem report exists on github, please create one here:
    https://github.com/jbarlow83/OCRmyPDF/issues
 -  Describe your problem thoroughly
